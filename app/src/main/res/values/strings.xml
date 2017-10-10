@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MysMapas</string>
+    <string name="ir_mapas">Ver todos los lugares concurridos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_maloka">Map</string>
+    <string name="title_activity_maps_centro_cultural">Map</string>
+    <string name="title_activity_maps_biblioteca">Map</string>
+    <string name="title_activity_maps_salto">Map</string>
+</resources>
